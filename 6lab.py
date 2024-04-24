@@ -13,6 +13,3 @@ for permutation in permutations(my_list):
 
 for permutation in permutations(my_list):
     print(permutation)
-    
-for permutation in permutations(my_list):
-    print(permutation)
