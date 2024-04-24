@@ -6,6 +6,7 @@ def permutations(items):
             for i in range(len(items)):
                 yield perm[:i] + items[0:1] + perm[i:]
 
+# commentaryyy
 
 my_list = [1, 5, 9]
 for permutation in permutations(my_list):
