@@ -10,9 +10,3 @@ def permutations(items):
 my_list = [1, 5, 9]
 for permutation in permutations(my_list):
     print(permutation)
-
-for permutation in permutations(my_list):
-    print(permutation)
-    
-for permutation in permutations(my_list):
-    print(permutation)
